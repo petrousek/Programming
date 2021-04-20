@@ -1,0 +1,20 @@
+D:\PC-Jiří\Programování C#\GameOfLifeWindow\bin\Debug\GameOfLifeWindow.exe.config
+D:\PC-Jiří\Programování C#\GameOfLifeWindow\bin\Debug\GameOfLifeWindow.exe
+D:\PC-Jiří\Programování C#\GameOfLifeWindow\bin\Debug\GameOfLifeWindow.pdb
+D:\PC-Jiří\Programování C#\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.csprojAssemblyReference.cache
+D:\PC-Jiří\Programování C#\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.Form1.resources
+D:\PC-Jiří\Programování C#\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.Properties.Resources.resources
+D:\PC-Jiří\Programování C#\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.csproj.GenerateResource.cache
+D:\PC-Jiří\Programování C#\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.csproj.CoreCompileInputs.cache
+D:\PC-Jiří\Programování C#\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.exe
+D:\PC-Jiří\Programování C#\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.pdb
+C:\Users\Kvííkuň\Desktop\GameOfLifeWindow\bin\Debug\GameOfLifeWindow.exe.config
+C:\Users\Kvííkuň\Desktop\GameOfLifeWindow\bin\Debug\GameOfLifeWindow.exe
+C:\Users\Kvííkuň\Desktop\GameOfLifeWindow\bin\Debug\GameOfLifeWindow.pdb
+C:\Users\Kvííkuň\Desktop\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.csprojAssemblyReference.cache
+C:\Users\Kvííkuň\Desktop\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.Form1.resources
+C:\Users\Kvííkuň\Desktop\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.Properties.Resources.resources
+C:\Users\Kvííkuň\Desktop\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.csproj.GenerateResource.cache
+C:\Users\Kvííkuň\Desktop\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.csproj.CoreCompileInputs.cache
+C:\Users\Kvííkuň\Desktop\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.exe
+C:\Users\Kvííkuň\Desktop\GameOfLifeWindow\obj\Debug\GameOfLifeWindow.pdb
